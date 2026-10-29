@@ -1,0 +1,1491 @@
+{
+  "version": 1,
+  "description": "按画面内容整理的表情包索引；分类和场景为主观判断，可按对话灵活选择。",
+  "memes": [
+    {
+      "id": "meme-000",
+      "file": "撒娇/1793263736713.png",
+      "original_filename": "1793263736713.png",
+      "category": "撒娇",
+      "emotion": "撒娇",
+      "description": "眼泪汪汪的小猫",
+      "use_cases": [
+        "委屈地请求安慰"
+      ]
+    },
+    {
+      "id": "meme-001",
+      "file": "撒娇/1793263662729.png",
+      "original_filename": "1793263662729.png",
+      "category": "撒娇",
+      "emotion": "撒娇",
+      "description": "脸红微笑的小猫",
+      "use_cases": [
+        "害羞地回应夸奖"
+      ]
+    },
+    {
+      "id": "meme-002",
+      "file": "无语/1793263645948.png",
+      "original_filename": "1793263645948.png",
+      "category": "无语",
+      "emotion": "无语",
+      "description": "张嘴的白色小人",
+      "use_cases": [
+        "听到离谱事情时发愣"
+      ]
+    },
+    {
+      "id": "meme-003",
+      "file": "撒娇/1793263642395.png",
+      "original_filename": "1793263642395.png",
+      "category": "撒娇",
+      "emotion": "撒娇",
+      "description": "困倦的粉色小猪",
+      "use_cases": [
+        "犯困时软软地告别"
+      ]
+    },
+    {
+      "id": "meme-004",
+      "file": "撒娇/1793263554562.png",
+      "original_filename": "1793263554562.png",
+      "category": "撒娇",
+      "emotion": "撒娇",
+      "description": "两个小角色贴贴",
+      "use_cases": [
+        "表达亲近或拥抱"
+      ]
+    },
+    {
+      "id": "meme-005",
+      "file": "撒娇/1793263546982.png",
+      "original_filename": "1793263546982.png",
+      "category": "撒娇",
+      "emotion": "撒娇",
+      "description": "低头的小猫",
+      "use_cases": [
+        "认错或不好意思"
+      ]
+    },
+    {
+      "id": "meme-006",
+      "file": "开心/1793263540214.png",
+      "original_filename": "1793263540214.png",
+      "category": "开心",
+      "emotion": "开心",
+      "description": "小狗双手比耶",
+      "use_cases": [
+        "开心打招呼或庆祝"
+      ]
+    },
+    {
+      "id": "meme-007",
+      "file": "开心/1793263440006.png",
+      "original_filename": "1793263440006.png",
+      "category": "开心",
+      "emotion": "开心",
+      "description": "加菲猫惊喜跳起",
+      "use_cases": [
+        "收到好消息时兴奋"
+      ]
+    },
+    {
+      "id": "meme-008",
+      "file": "开心/1793263377017.png",
+      "original_filename": "1793263377017.png",
+      "category": "开心",
+      "emotion": "开心",
+      "description": "戴眼镜吐舌的小猫",
+      "use_cases": [
+        "调皮地分享零食"
+      ]
+    },
+    {
+      "id": "meme-009",
+      "file": "撒娇/1793263373559.png",
+      "original_filename": "1793263373559.png",
+      "category": "撒娇",
+      "emotion": "撒娇",
+      "description": "吐舌头的小猫",
+      "use_cases": [
+        "调皮卖萌"
+      ]
+    },
+    {
+      "id": "meme-010",
+      "file": "开心/1793263328199.png",
+      "original_filename": "1793263328199.png",
+      "category": "开心",
+      "emotion": "开心",
+      "description": "拿西瓜的便便角色",
+      "use_cases": [
+        "聊吃瓜或夏天"
+      ]
+    },
+    {
+      "id": "meme-011",
+      "file": "开心/1793263325565.png",
+      "original_filename": "1793263325565.png",
+      "category": "开心",
+      "emotion": "开心",
+      "description": "跳舞的便便角色",
+      "use_cases": [
+        "欢呼庆祝"
+      ]
+    },
+    {
+      "id": "meme-012",
+      "file": "撒娇/1793263321861.png",
+      "original_filename": "1793263321861.png",
+      "category": "撒娇",
+      "emotion": "撒娇",
+      "description": "带爱心的便便角色",
+      "use_cases": [
+        "搞怪表达喜欢"
+      ]
+    },
+    {
+      "id": "meme-013",
+      "file": "开心/1793263318426.png",
+      "original_filename": "1793263318426.png",
+      "category": "开心",
+      "emotion": "开心",
+      "description": "戴红框眼镜比耶的猫",
+      "use_cases": [
+        "摆拍或开心回应"
+      ]
+    },
+    {
+      "id": "meme-014",
+      "file": "撒娇/1793263315396.png",
+      "original_filename": "1793263315396.png",
+      "category": "撒娇",
+      "emotion": "撒娇",
+      "description": "大眼睛小猫比耶",
+      "use_cases": [
+        "可爱回应或打招呼"
+      ]
+    },
+    {
+      "id": "meme-015",
+      "file": "抽象/1793263312085.png",
+      "original_filename": "1793263312085.png",
+      "category": "抽象",
+      "emotion": "抽象",
+      "description": "站立仰头的小动物",
+      "use_cases": [
+        "好奇张望或搞怪"
+      ]
+    },
+    {
+      "id": "meme-016",
+      "file": "开心/1793263309185.png",
+      "original_filename": "1793263309185.png",
+      "category": "开心",
+      "emotion": "开心",
+      "description": "天使光环蓝色老鼠",
+      "use_cases": [
+        "自夸乖巧或假装升天"
+      ]
+    },
+    {
+      "id": "meme-017",
+      "file": "抽象/1793263213708.png",
+      "original_filename": "1793263213708.png",
+      "category": "抽象",
+      "emotion": "抽象",
+      "description": "戴皇冠的老鼠写着我是皇帝",
+      "use_cases": [
+        "开玩笑自封身份"
+      ]
+    },
+    {
+      "id": "meme-018",
+      "file": "抽象/1793263207923.png",
+      "original_filename": "1793263207923.png",
+      "category": "抽象",
+      "emotion": "抽象",
+      "description": "穿土豆套的小动物",
+      "use_cases": [
+        "无厘头变身"
+      ]
+    },
+    {
+      "id": "meme-019",
+      "file": "抽象/1793263201598.png",
+      "original_filename": "1793263201598.png",
+      "category": "抽象",
+      "emotion": "抽象",
+      "description": "穿西瓜套的小动物",
+      "use_cases": [
+        "聊西瓜或搞怪变装"
+      ]
+    },
+    {
+      "id": "meme-020",
+      "file": "抽象/1793263198247.png",
+      "original_filename": "1793263198247.png",
+      "category": "抽象",
+      "emotion": "抽象",
+      "description": "穿方形西瓜套的小动物",
+      "use_cases": [
+        "无厘头卖萌"
+      ]
+    },
+    {
+      "id": "meme-021",
+      "file": "撒娇/1793263193871.png",
+      "original_filename": "1793263193871.png",
+      "category": "撒娇",
+      "emotion": "撒娇",
+      "description": "泪眼汪汪的黄色小人",
+      "use_cases": [
+        "委屈求安慰"
+      ]
+    },
+    {
+      "id": "meme-022",
+      "file": "生气/1793263190065.png",
+      "original_filename": "1793263190065.png",
+      "category": "生气",
+      "emotion": "生气",
+      "description": "红字忍术与持枪人物",
+      "use_cases": [
+        "夸张表达要反击"
+      ]
+    },
+    {
+      "id": "meme-023",
+      "file": "嘲讽/1793263185971.png",
+      "original_filename": "1793263185971.png",
+      "category": "嘲讽",
+      "emotion": "嘲讽",
+      "description": "外星人配字你已急哭",
+      "use_cases": [
+        "朋友拌嘴时调侃对方急了"
+      ]
+    },
+    {
+      "id": "meme-024",
+      "file": "开心/1793263181421.png",
+      "original_filename": "1793263181421.png",
+      "category": "开心",
+      "emotion": "开心",
+      "description": "眯眼吐舌笑脸",
+      "use_cases": [
+        "调皮回应或得意"
+      ]
+    },
+    {
+      "id": "meme-025",
+      "file": "开心/1793263175581.png",
+      "original_filename": "1793263175581.png",
+      "category": "开心",
+      "emotion": "开心",
+      "description": "戴草帽的狗配字可以啊bro",
+      "use_cases": [
+        "夸朋友厉害或表示认可"
+      ]
+    },
+    {
+      "id": "meme-026",
+      "file": "无语/1793263170726.png",
+      "original_filename": "1793263170726.png",
+      "category": "无语",
+      "emotion": "无语",
+      "description": "橘猫严肃盯着镜头",
+      "use_cases": [
+        "沉默看着对方"
+      ]
+    },
+    {
+      "id": "meme-027",
+      "file": "撒娇/1793263162235.png",
+      "original_filename": "1793263162235.png",
+      "category": "撒娇",
+      "emotion": "撒娇",
+      "description": "大眼睛白猫贴近镜头",
+      "use_cases": [
+        "好奇凑近或卖萌"
+      ]
+    },
+    {
+      "id": "meme-028",
+      "file": "开心/1793263156290.png",
+      "original_filename": "1793263156290.png",
+      "category": "开心",
+      "emotion": "开心",
+      "description": "睡觉的猫写着该用户已就寝",
+      "use_cases": [
+        "睡前道晚安"
+      ]
+    },
+    {
+      "id": "meme-029",
+      "file": "抽象/1793263146205.png",
+      "original_filename": "1793263146205.png",
+      "category": "抽象",
+      "emotion": "抽象",
+      "description": "模糊小狗站立",
+      "use_cases": [
+        "突然出现或无厘头回应"
+      ]
+    },
+    {
+      "id": "meme-030",
+      "file": "无语/1793263142740.png",
+      "original_filename": "1793263142740.png",
+      "category": "无语",
+      "emotion": "无语",
+      "description": "企鹅趴桌写着好想睡觉",
+      "use_cases": [
+        "困倦上课或工作时吐槽"
+      ]
+    },
+    {
+      "id": "meme-031",
+      "file": "抽象/1793263137650.png",
+      "original_filename": "1793263137650.png",
+      "category": "抽象",
+      "emotion": "抽象",
+      "description": "企鹅拿喇叭写着已殉职",
+      "use_cases": [
+        "累瘫或夸张宣布退场"
+      ]
+    },
+    {
+      "id": "meme-032",
+      "file": "撒娇/1793263128369.png",
+      "original_filename": "1793263128369.png",
+      "category": "撒娇",
+      "emotion": "撒娇",
+      "description": "桌下小猫写着该用户是社恐",
+      "use_cases": [
+        "社恐躲起来"
+      ]
+    },
+    {
+      "id": "meme-033",
+      "file": "开心/1793263123160.png",
+      "original_filename": "1793263123160.png",
+      "category": "开心",
+      "emotion": "开心",
+      "description": "黄色头发小人双手比耶",
+      "use_cases": [
+        "开心拍照或庆祝"
+      ]
+    },
+    {
+      "id": "meme-034",
+      "file": "嘲讽/1793263071521.png",
+      "original_filename": "1793263071521.png",
+      "category": "嘲讽",
+      "emotion": "嘲讽",
+      "description": "戴墨镜的小人写着冷酷",
+      "use_cases": [
+        "假装高冷或耍帅"
+      ]
+    },
+    {
+      "id": "meme-035",
+      "file": "开心/1793263068249.png",
+      "original_filename": "1793263068249.png",
+      "category": "开心",
+      "emotion": "开心",
+      "description": "小人双手点赞",
+      "use_cases": [
+        "肯定或夸奖对方"
+      ]
+    },
+    {
+      "id": "meme-036",
+      "file": "无语/1793263063530.png",
+      "original_filename": "1793263063530.png",
+      "category": "无语",
+      "emotion": "无语",
+      "description": "戴耳机的小人写着听不见",
+      "use_cases": [
+        "假装没听见玩笑话"
+      ]
+    },
+    {
+      "id": "meme-037",
+      "file": "撒娇/1793263059926.png",
+      "original_filename": "1793263059926.png",
+      "category": "撒娇",
+      "emotion": "撒娇",
+      "description": "流泪的小人",
+      "use_cases": [
+        "委屈或难过时求安慰"
+      ]
+    },
+    {
+      "id": "meme-038",
+      "file": "开心/1793263056645.png",
+      "original_filename": "1793263056645.png",
+      "category": "开心",
+      "emotion": "开心",
+      "description": "小动物和汉堡",
+      "use_cases": [
+        "聊吃饭或分享美食"
+      ]
+    },
+    {
+      "id": "meme-039",
+      "file": "抽象/1793263050499.png",
+      "original_filename": "1793263050499.png",
+      "category": "抽象",
+      "emotion": "抽象",
+      "description": "深夜打开冰箱的便便角色",
+      "use_cases": [
+        "半夜找吃的"
+      ]
+    },
+    {
+      "id": "meme-040",
+      "file": "开心/1793263047016.png",
+      "original_filename": "1793263047016.png",
+      "category": "开心",
+      "emotion": "开心",
+      "description": "两只熊搭肩大笑",
+      "use_cases": [
+        "和朋友一起开心大笑"
+      ]
+    },
+    {
+      "id": "meme-041",
+      "file": "嘲讽/1793263041377.png",
+      "original_filename": "1793263041377.png",
+      "category": "嘲讽",
+      "emotion": "嘲讽",
+      "description": "猫牵着猪配字蠢钝如猪",
+      "use_cases": [
+        "熟人间轻度互损"
+      ]
+    },
+    {
+      "id": "meme-042",
+      "file": "生气/1793263036921.png",
+      "original_filename": "1793263036921.png",
+      "category": "生气",
+      "emotion": "生气",
+      "description": "戴帽子的便便角色皱眉",
+      "use_cases": [
+        "装生气或不满"
+      ]
+    },
+    {
+      "id": "meme-043",
+      "file": "无语/1793263031357.png",
+      "original_filename": "1793263031357.png",
+      "category": "无语",
+      "emotion": "无语",
+      "description": "面无表情的小土豆端杯子",
+      "use_cases": [
+        "尴尬沉默或喝水旁观"
+      ]
+    },
+    {
+      "id": "meme-044",
+      "file": "撒娇/1793263026758.png",
+      "original_filename": "1793263026758.png",
+      "category": "撒娇",
+      "emotion": "撒娇",
+      "description": "大眼睛蓝色老鼠端碗",
+      "use_cases": [
+        "期待投喂或请求好吃的"
+      ]
+    },
+    {
+      "id": "meme-045",
+      "file": "开心/1793263022749.png",
+      "original_filename": "1793263022749.png",
+      "category": "开心",
+      "emotion": "开心",
+      "description": "黄色角色竖大拇指",
+      "use_cases": [
+        "表示同意和认可"
+      ]
+    },
+    {
+      "id": "meme-046",
+      "file": "抽象/1793263017630.png",
+      "original_filename": "1793263017630.png",
+      "category": "抽象",
+      "emotion": "抽象",
+      "description": "小猫站在地球上",
+      "use_cases": [
+        "夸张表达世界在脚下"
+      ]
+    },
+    {
+      "id": "meme-047",
+      "file": "开心/1793263014412.png",
+      "original_filename": "1793263014412.png",
+      "category": "开心",
+      "emotion": "开心",
+      "description": "闭眼微笑的蓝色老鼠",
+      "use_cases": [
+        "满足或轻松回应"
+      ]
+    },
+    {
+      "id": "meme-048",
+      "file": "嘲讽/1793263006941.png",
+      "original_filename": "1793263006941.png",
+      "category": "嘲讽",
+      "emotion": "嘲讽",
+      "description": "橘猫伸爪指向镜头",
+      "use_cases": [
+        "指认对方或轻松调侃"
+      ]
+    },
+    {
+      "id": "meme-049",
+      "file": "无语/1793263003064.png",
+      "original_filename": "1793263003064.png",
+      "category": "无语",
+      "emotion": "无语",
+      "description": "书法字哦",
+      "use_cases": [
+        "冷淡敷衍地回应"
+      ]
+    },
+    {
+      "id": "meme-050",
+      "file": "生气/1793262999991.png",
+      "original_filename": "1793262999991.png",
+      "category": "生气",
+      "emotion": "生气",
+      "description": "皱眉的小猪",
+      "use_cases": [
+        "表达不满或假装生气"
+      ]
+    },
+    {
+      "id": "meme-051",
+      "file": "生气/1793262995940.png",
+      "original_filename": "1793262995940.png",
+      "category": "生气",
+      "emotion": "生气",
+      "description": "书法粗口字",
+      "use_cases": [
+        "熟人之间夸张表达恼火"
+      ]
+    },
+    {
+      "id": "meme-052",
+      "file": "开心/1793262992928.png",
+      "original_filename": "1793262992928.png",
+      "category": "开心",
+      "emotion": "开心",
+      "description": "黄色角色抱头大笑",
+      "use_cases": [
+        "听到好笑的事情"
+      ]
+    },
+    {
+      "id": "meme-053",
+      "file": "生气/1793262989224.png",
+      "original_filename": "1793262989224.png",
+      "category": "生气",
+      "emotion": "生气",
+      "description": "蓝色老鼠握拳砸桌",
+      "use_cases": [
+        "假装愤怒或拍桌"
+      ]
+    },
+    {
+      "id": "meme-054",
+      "file": "开心/1793262985551.png",
+      "original_filename": "1793262985551.png",
+      "category": "开心",
+      "emotion": "开心",
+      "description": "青蛙张嘴写着太爽辣",
+      "use_cases": [
+        "吃辣或兴奋满足"
+      ]
+    },
+    {
+      "id": "meme-055",
+      "file": "抽象/1793262981508.png",
+      "original_filename": "1793262981508.png",
+      "category": "抽象",
+      "emotion": "抽象",
+      "description": "卡通画面局部",
+      "use_cases": [
+        "无厘头或突兀转场"
+      ]
+    },
+    {
+      "id": "meme-056",
+      "file": "抽象/1793262977762.png",
+      "original_filename": "1793262977762.png",
+      "category": "抽象",
+      "emotion": "抽象",
+      "description": "红色发光的危字",
+      "use_cases": [
+        "调侃即将出事"
+      ]
+    },
+    {
+      "id": "meme-057",
+      "file": "抽象/1793262973978.png",
+      "original_filename": "1793262973978.png",
+      "category": "抽象",
+      "emotion": "抽象",
+      "description": "飞碟光束带走小人",
+      "use_cases": [
+        "想逃离尴尬场面"
+      ]
+    },
+    {
+      "id": "meme-058",
+      "file": "开心/1793262971111.png",
+      "original_filename": "1793262971111.png",
+      "category": "开心",
+      "emotion": "开心",
+      "description": "老人惊喜地抚胸",
+      "use_cases": [
+        "受到惊喜或感动"
+      ]
+    },
+    {
+      "id": "meme-059",
+      "file": "生气/1793262968149.png",
+      "original_filename": "1793262968149.png",
+      "category": "生气",
+      "emotion": "生气",
+      "description": "文字直接给我坐下",
+      "use_cases": [
+        "开玩笑让对方安静"
+      ]
+    },
+    {
+      "id": "meme-060",
+      "file": "无语/1793262964763.png",
+      "original_filename": "1793262964763.png",
+      "category": "无语",
+      "emotion": "无语",
+      "description": "小人说行",
+      "use_cases": [
+        "无奈接受或简短回应"
+      ]
+    },
+    {
+      "id": "meme-061",
+      "file": "无语/1793262961562.png",
+      "original_filename": "1793262961562.png",
+      "category": "无语",
+      "emotion": "无语",
+      "description": "头晕眼花的小土豆",
+      "use_cases": [
+        "信息过载或被绕晕"
+      ]
+    },
+    {
+      "id": "meme-062",
+      "file": "嘲讽/1793262958513.png",
+      "original_filename": "1793262958513.png",
+      "category": "嘲讽",
+      "emotion": "嘲讽",
+      "description": "伸爪的猫写着拿来",
+      "use_cases": [
+        "开玩笑索要东西"
+      ]
+    },
+    {
+      "id": "meme-063",
+      "file": "撒娇/1793262955801.png",
+      "original_filename": "1793262955801.png",
+      "category": "撒娇",
+      "emotion": "撒娇",
+      "description": "裹绿色毯子的黄色角色",
+      "use_cases": [
+        "想被照顾或安静陪伴"
+      ]
+    },
+    {
+      "id": "meme-064",
+      "file": "生气/1793262952201.png",
+      "original_filename": "1793262952201.png",
+      "category": "生气",
+      "emotion": "生气",
+      "description": "黄色角色抱臂皱眉",
+      "use_cases": [
+        "表达不悦或傲娇"
+      ]
+    },
+    {
+      "id": "meme-065",
+      "file": "无语/1793262949303.png",
+      "original_filename": "1793262949303.png",
+      "category": "无语",
+      "emotion": "无语",
+      "description": "黄色角色手托下巴",
+      "use_cases": [
+        "疑惑思考或不解"
+      ]
+    },
+    {
+      "id": "meme-066",
+      "file": "无语/1793262946042.png",
+      "original_filename": "1793262946042.png",
+      "category": "无语",
+      "emotion": "无语",
+      "description": "躺倒的小土豆",
+      "use_cases": [
+        "疲惫摆烂或不想动"
+      ]
+    },
+    {
+      "id": "meme-067",
+      "file": "嘲讽/1793262942193.png",
+      "original_filename": "1793262942193.png",
+      "category": "嘲讽",
+      "emotion": "嘲讽",
+      "description": "蓝色角色侧眼微笑",
+      "use_cases": [
+        "意味深长地调侃"
+      ]
+    },
+    {
+      "id": "meme-068",
+      "file": "抽象/1793262939077.png",
+      "original_filename": "1793262939077.png",
+      "category": "抽象",
+      "emotion": "抽象",
+      "description": "天使小人拉着另一个小人升天",
+      "use_cases": [
+        "被笑死或累到升天"
+      ]
+    },
+    {
+      "id": "meme-069",
+      "file": "无语/1793262936040.png",
+      "original_filename": "1793262936040.png",
+      "category": "无语",
+      "emotion": "无语",
+      "description": "黄色角色半睁眼张嘴",
+      "use_cases": [
+        "困倦或无精打采"
+      ]
+    },
+    {
+      "id": "meme-070",
+      "file": "无语/1793262885503.png",
+      "original_filename": "1793262885503.png",
+      "category": "无语",
+      "emotion": "无语",
+      "description": "小土豆坐在盒子里",
+      "use_cases": [
+        "沮丧蹲角落"
+      ]
+    },
+    {
+      "id": "meme-071",
+      "file": "开心/1793262882301.png",
+      "original_filename": "1793262882301.png",
+      "category": "开心",
+      "emotion": "开心",
+      "description": "笑到流泪的表情",
+      "use_cases": [
+        "被逗得大笑"
+      ]
+    },
+    {
+      "id": "meme-072",
+      "file": "开心/1793262878919.png",
+      "original_filename": "1793262878919.png",
+      "category": "开心",
+      "emotion": "开心",
+      "description": "白猫闭眼大笑",
+      "use_cases": [
+        "开心或傻笑"
+      ]
+    },
+    {
+      "id": "meme-073",
+      "file": "无语/1793262875395.png",
+      "original_filename": "1793262875395.png",
+      "category": "无语",
+      "emotion": "无语",
+      "description": "小土豆写着思考中",
+      "use_cases": [
+        "暂时想不明白或认真思考"
+      ]
+    },
+    {
+      "id": "meme-074",
+      "file": "撒娇/1793262871624.png",
+      "original_filename": "1793262871624.png",
+      "category": "撒娇",
+      "emotion": "撒娇",
+      "description": "雨中穿雨衣的小人",
+      "use_cases": [
+        "可怜巴巴等待安慰"
+      ]
+    },
+    {
+      "id": "meme-075",
+      "file": "生气/1793262868160.png",
+      "original_filename": "1793262868160.png",
+      "category": "生气",
+      "emotion": "生气",
+      "description": "黑白画面里张嘴喊叫的角色",
+      "use_cases": [
+        "夸张崩溃或呐喊"
+      ]
+    },
+    {
+      "id": "meme-076",
+      "file": "生气/1793262864822.png",
+      "original_filename": "1793262864822.png",
+      "category": "生气",
+      "emotion": "生气",
+      "description": "粉色角色怒吼",
+      "use_cases": [
+        "气急败坏或假装吼叫"
+      ]
+    },
+    {
+      "id": "meme-077",
+      "file": "开心/1793262861254.png",
+      "original_filename": "1793262861254.png",
+      "category": "开心",
+      "emotion": "开心",
+      "description": "小熊举勾写着夸爆了",
+      "use_cases": [
+        "大力夸奖对方"
+      ]
+    },
+    {
+      "id": "meme-078",
+      "file": "开心/1793262857476.png",
+      "original_filename": "1793262857476.png",
+      "category": "开心",
+      "emotion": "开心",
+      "description": "白色小人写着兑",
+      "use_cases": [
+        "搞怪附和表示对"
+      ]
+    },
+    {
+      "id": "meme-079",
+      "file": "开心/1793262854125.png",
+      "original_filename": "1793262854125.png",
+      "category": "开心",
+      "emotion": "开心",
+      "description": "黄色角色挥手大笑",
+      "use_cases": [
+        "欢快回应或打招呼"
+      ]
+    },
+    {
+      "id": "meme-080",
+      "file": "嘲讽/1793262850939.png",
+      "original_filename": "1793262850939.png",
+      "category": "嘲讽",
+      "emotion": "嘲讽",
+      "description": "扫帚配字一边去",
+      "use_cases": [
+        "开玩笑赶走对方"
+      ]
+    },
+    {
+      "id": "meme-081",
+      "file": "无语/1793262847713.png",
+      "original_filename": "1793262847713.png",
+      "category": "无语",
+      "emotion": "无语",
+      "description": "人物震惊配字瞬间愣住",
+      "use_cases": [
+        "听到离谱消息而惊呆"
+      ]
+    },
+    {
+      "id": "meme-082",
+      "file": "撒娇/1793262844885.png",
+      "original_filename": "1793262844885.png",
+      "category": "撒娇",
+      "emotion": "撒娇",
+      "description": "小狗举牌写我是学生放过我",
+      "use_cases": [
+        "开玩笑求放过"
+      ]
+    },
+    {
+      "id": "meme-083",
+      "file": "嘲讽/1793262842053.png",
+      "original_filename": "1793262842053.png",
+      "category": "嘲讽",
+      "emotion": "嘲讽",
+      "description": "印章写着OUT",
+      "use_cases": [
+        "淘汰或否定一个玩笑提议"
+      ]
+    },
+    {
+      "id": "meme-084",
+      "file": "生气/1793262837695.png",
+      "original_filename": "1793262837695.png",
+      "category": "生气",
+      "emotion": "生气",
+      "description": "卡通人物写着这也太欺负人了",
+      "use_cases": [
+        "抱怨被欺负"
+      ]
+    },
+    {
+      "id": "meme-085",
+      "file": "撒娇/1793262834941.png",
+      "original_filename": "1793262834941.png",
+      "category": "撒娇",
+      "emotion": "撒娇",
+      "description": "小人哭诉被欺负",
+      "use_cases": [
+        "委屈抗议熟人调侃"
+      ]
+    },
+    {
+      "id": "meme-086",
+      "file": "嘲讽/1793262831904.png",
+      "original_filename": "1793262831904.png",
+      "category": "嘲讽",
+      "emotion": "嘲讽",
+      "description": "文字脸就一张省着点丢",
+      "use_cases": [
+        "熟人互损时调侃丢脸"
+      ]
+    },
+    {
+      "id": "meme-087",
+      "file": "撒娇/1793262809409.png",
+      "original_filename": "1793262809409.png",
+      "category": "撒娇",
+      "emotion": "撒娇",
+      "description": "低头的白色小猫",
+      "use_cases": [
+        "失落或认错"
+      ]
+    },
+    {
+      "id": "meme-088",
+      "file": "开心/1793262805852.png",
+      "original_filename": "1793262805852.png",
+      "category": "开心",
+      "emotion": "开心",
+      "description": "圆肚黄色角色微笑",
+      "use_cases": [
+        "轻松满足或憨笑"
+      ]
+    },
+    {
+      "id": "meme-089",
+      "file": "无语/1793262803086.png",
+      "original_filename": "1793262803086.png",
+      "category": "无语",
+      "emotion": "无语",
+      "description": "小动物看书露出惊讶表情",
+      "use_cases": [
+        "对消息感到困惑或震惊"
+      ]
+    },
+    {
+      "id": "meme-090",
+      "file": "开心/1793262800068.png",
+      "original_filename": "1793262800068.png",
+      "category": "开心",
+      "emotion": "开心",
+      "description": "头戴菜刀的蓝色老鼠微笑",
+      "use_cases": [
+        "荒诞地假装淡定"
+      ]
+    },
+    {
+      "id": "meme-091",
+      "file": "撒娇/1793262796444.png",
+      "original_filename": "1793262796444.png",
+      "category": "撒娇",
+      "emotion": "撒娇",
+      "description": "流泪老鼠写着我在哭",
+      "use_cases": [
+        "表达伤心或委屈"
+      ]
+    },
+    {
+      "id": "meme-092",
+      "file": "撒娇/1793262793190.png",
+      "original_filename": "1793262793190.png",
+      "category": "撒娇",
+      "emotion": "撒娇",
+      "description": "闭眼小狗写着好啦不闹了",
+      "use_cases": [
+        "玩闹后收尾或求和"
+      ]
+    },
+    {
+      "id": "meme-093",
+      "file": "无语/1793262788877.png",
+      "original_filename": "1793262788877.png",
+      "category": "无语",
+      "emotion": "无语",
+      "description": "老鼠看书旁有问号",
+      "use_cases": [
+        "看不懂或疑惑"
+      ]
+    },
+    {
+      "id": "meme-094",
+      "file": "抽象/1793262785729.png",
+      "original_filename": "1793262785729.png",
+      "category": "抽象",
+      "emotion": "抽象",
+      "description": "模糊黑色动物凑近镜头",
+      "use_cases": [
+        "突然出现吓人或搞怪"
+      ]
+    },
+    {
+      "id": "meme-095",
+      "file": "开心/1793262782432.png",
+      "original_filename": "1793262782432.png",
+      "category": "开心",
+      "emotion": "开心",
+      "description": "黄色角色捧腹大笑",
+      "use_cases": [
+        "被朋友逗笑"
+      ]
+    },
+    {
+      "id": "meme-096",
+      "file": "撒娇/1793262779603.png",
+      "original_filename": "1793262779603.png",
+      "category": "撒娇",
+      "emotion": "撒娇",
+      "description": "流泪小人擦地",
+      "use_cases": [
+        "委屈地做事或玩笑自怜"
+      ]
+    },
+    {
+      "id": "meme-097",
+      "file": "无语/1793262776670.png",
+      "original_filename": "1793262776670.png",
+      "category": "无语",
+      "emotion": "无语",
+      "description": "小动物趴地睡觉",
+      "use_cases": [
+        "疲惫躺平"
+      ]
+    },
+    {
+      "id": "meme-098",
+      "file": "生气/1793262772214.png",
+      "original_filename": "1793262772214.png",
+      "category": "生气",
+      "emotion": "生气",
+      "description": "小孩配字善良人格消失中",
+      "use_cases": [
+        "开玩笑宣布要生气"
+      ]
+    },
+    {
+      "id": "meme-099",
+      "file": "嘲讽/1793262769127.png",
+      "original_filename": "1793262769127.png",
+      "category": "嘲讽",
+      "emotion": "嘲讽",
+      "description": "黄色角色斜眼看大笑的同伴",
+      "use_cases": [
+        "嫌弃朋友笑得太夸张"
+      ]
+    },
+    {
+      "id": "meme-100",
+      "file": "撒娇/1793262765883.png",
+      "original_filename": "1793262765883.png",
+      "category": "撒娇",
+      "emotion": "撒娇",
+      "description": "坐着的小猫",
+      "use_cases": [
+        "安静陪伴或乖巧等待"
+      ]
+    },
+    {
+      "id": "meme-101",
+      "file": "开心/1793262762413.png",
+      "original_filename": "1793262762413.png",
+      "category": "开心",
+      "emotion": "开心",
+      "description": "黄色角色指向自己微笑",
+      "use_cases": [
+        "得意地认领或指自己"
+      ]
+    },
+    {
+      "id": "meme-102",
+      "file": "抽象/1793262759357.png",
+      "original_filename": "1793262759357.png",
+      "category": "抽象",
+      "emotion": "抽象",
+      "description": "熊配字保持神秘",
+      "use_cases": [
+        "故作神秘地卖关子"
+      ]
+    },
+    {
+      "id": "meme-103",
+      "file": "开心/1793262756277.png",
+      "original_filename": "1793262756277.png",
+      "category": "开心",
+      "emotion": "开心",
+      "description": "黄色角色写着享受中",
+      "use_cases": [
+        "享受美食或放松时光"
+      ]
+    },
+    {
+      "id": "meme-104",
+      "file": "撒娇/1793262753147.png",
+      "original_filename": "1793262753147.png",
+      "category": "撒娇",
+      "emotion": "撒娇",
+      "description": "大眼睛粉色小动物双手合拢",
+      "use_cases": [
+        "可怜巴巴地请求"
+      ]
+    },
+    {
+      "id": "meme-105",
+      "file": "抽象/1793262750059.png",
+      "original_filename": "1793262750059.png",
+      "category": "抽象",
+      "emotion": "抽象",
+      "description": "小猪举手机写着忙着玩手机",
+      "use_cases": [
+        "表示正忙着玩手机"
+      ]
+    },
+    {
+      "id": "meme-106",
+      "file": "抽象/1793262746841.png",
+      "original_filename": "1793262746841.png",
+      "category": "抽象",
+      "emotion": "抽象",
+      "description": "小猪头顶橘子站立",
+      "use_cases": [
+        "无厘头耍杂技"
+      ]
+    },
+    {
+      "id": "meme-107",
+      "file": "嘲讽/1793262743346.png",
+      "original_filename": "1793262743346.png",
+      "category": "嘲讽",
+      "emotion": "嘲讽",
+      "description": "小猪配字我无心与你一决高下",
+      "use_cases": [
+        "搞怪拒绝争论或竞争"
+      ]
+    },
+    {
+      "id": "meme-108",
+      "file": "生气/1793262737812.png",
+      "original_filename": "1793262737812.png",
+      "category": "生气",
+      "emotion": "生气",
+      "description": "黄色角色配字神彻底愤怒了",
+      "use_cases": [
+        "夸张表达愤怒"
+      ]
+    },
+    {
+      "id": "meme-109",
+      "file": "开心/1793262729066.png",
+      "original_filename": "1793262729066.png",
+      "category": "开心",
+      "emotion": "开心",
+      "description": "戴眼镜的猫写着恍然小悟",
+      "use_cases": [
+        "突然明白一点点"
+      ]
+    },
+    {
+      "id": "meme-110",
+      "file": "开心/1793262725597.png",
+      "original_filename": "1793262725597.png",
+      "category": "开心",
+      "emotion": "开心",
+      "description": "像素黄脸露齿笑",
+      "use_cases": [
+        "调皮地笑或得意"
+      ]
+    },
+    {
+      "id": "meme-111",
+      "file": "开心/1793262722018.png",
+      "original_filename": "1793262722018.png",
+      "category": "开心",
+      "emotion": "开心",
+      "description": "肌肉角色写着我的胆子就是肥嘟嘟",
+      "use_cases": [
+        "夸张给自己壮胆"
+      ]
+    },
+    {
+      "id": "meme-112",
+      "file": "撒娇/1793262718787.png",
+      "original_filename": "1793262718787.png",
+      "category": "撒娇",
+      "emotion": "撒娇",
+      "description": "流眼泪的小猫",
+      "use_cases": [
+        "伤心或委屈求安慰"
+      ]
+    },
+    {
+      "id": "meme-113",
+      "file": "无语/1793262711082.png",
+      "original_filename": "1793262711082.png",
+      "category": "无语",
+      "emotion": "无语",
+      "description": "黄脸摊手",
+      "use_cases": [
+        "无奈表示不知道或没办法"
+      ]
+    },
+    {
+      "id": "meme-114",
+      "file": "无语/1793262707881.png",
+      "original_filename": "1793262707881.png",
+      "category": "无语",
+      "emotion": "无语",
+      "description": "白色小狗端杯子",
+      "use_cases": [
+        "困倦喝咖啡或沉默旁观"
+      ]
+    },
+    {
+      "id": "meme-115",
+      "file": "撒娇/1793262694792.png",
+      "original_filename": "1793262694792.png",
+      "category": "撒娇",
+      "emotion": "撒娇",
+      "description": "闪亮大眼睛的可爱角色",
+      "use_cases": [
+        "期待或恳求"
+      ]
+    },
+    {
+      "id": "meme-116",
+      "file": "抽象/1793262688232.png",
+      "original_filename": "1793262688232.png",
+      "category": "抽象",
+      "emotion": "抽象",
+      "description": "包头巾的小人物",
+      "use_cases": [
+        "无厘头登场或装扮"
+      ]
+    },
+    {
+      "id": "meme-117",
+      "file": "抽象/1793262684742.png",
+      "original_filename": "1793262684742.png",
+      "category": "抽象",
+      "emotion": "抽象",
+      "description": "人物仰头接水",
+      "use_cases": [
+        "夸张口渴或搞怪"
+      ]
+    },
+    {
+      "id": "meme-118",
+      "file": "嘲讽/1793262666998.png",
+      "original_filename": "1793262666998.png",
+      "category": "嘲讽",
+      "emotion": "嘲讽",
+      "description": "小动物背影写着放个屁送给你",
+      "use_cases": [
+        "熟人之间幼稚搞怪"
+      ]
+    },
+    {
+      "id": "meme-119",
+      "file": "无语/1793262659659.png",
+      "original_filename": "1793262659659.png",
+      "category": "无语",
+      "emotion": "无语",
+      "description": "黄色小动物躺着",
+      "use_cases": [
+        "困倦睡觉或躺平"
+      ]
+    },
+    {
+      "id": "meme-120",
+      "file": "开心/1793262647748.png",
+      "original_filename": "1793262647748.png",
+      "category": "开心",
+      "emotion": "开心",
+      "description": "聊天图标抱着电脑",
+      "use_cases": [
+        "认真打字或开始工作"
+      ]
+    },
+    {
+      "id": "meme-121",
+      "file": "开心/1793262643057.png",
+      "original_filename": "1793262643057.png",
+      "category": "开心",
+      "emotion": "开心",
+      "description": "聊天图标喝奶茶配爱心",
+      "use_cases": [
+        "分享奶茶或表达喜欢"
+      ]
+    },
+    {
+      "id": "meme-122",
+      "file": "开心/IMG_20261029_155115.png",
+      "original_filename": "IMG_20261029_155115.png",
+      "category": "开心",
+      "emotion": "开心",
+      "description": "聊天图标喝奶茶配爱心",
+      "use_cases": [
+        "分享饮料或表达喜欢"
+      ]
+    },
+    {
+      "id": "meme-123",
+      "file": "撒娇/1793262732815.png",
+      "original_filename": "1793262732815.png",
+      "category": "撒娇",
+      "emotion": "撒娇",
+      "description": "爱心眼黄色笑脸",
+      "use_cases": [
+        "表达喜欢和心动"
+      ]
+    },
+    {
+      "id": "meme-124",
+      "file": "撒娇/1793262714347.png",
+      "original_filename": "1793262714347.png",
+      "category": "撒娇",
+      "emotion": "撒娇",
+      "description": "背对镜头的灰兔",
+      "use_cases": [
+        "闹别扭或安静背过身"
+      ]
+    },
+    {
+      "id": "meme-125",
+      "file": "撒娇/1793262704668.png",
+      "original_filename": "1793262704668.png",
+      "category": "撒娇",
+      "emotion": "撒娇",
+      "description": "黄色角色哭着自拍",
+      "use_cases": [
+        "夸张委屈或悲伤自拍"
+      ]
+    },
+    {
+      "id": "meme-126",
+      "file": "撒娇/1793262701397.png",
+      "original_filename": "1793262701397.png",
+      "category": "撒娇",
+      "emotion": "撒娇",
+      "description": "猫脸小人低头握拳",
+      "use_cases": [
+        "害羞或委屈卖萌"
+      ]
+    },
+    {
+      "id": "meme-127",
+      "file": "嘲讽/1793262698135.png",
+      "original_filename": "1793262698135.png",
+      "category": "嘲讽",
+      "emotion": "嘲讽",
+      "description": "戴眼镜红鼻子小丑表情",
+      "use_cases": [
+        "自嘲像个小丑或调侃自己"
+      ]
+    },
+    {
+      "id": "meme-128",
+      "file": "生气/1793262691431.png",
+      "original_filename": "1793262691431.png",
+      "category": "生气",
+      "emotion": "生气",
+      "description": "粉色角色哭喊喷水",
+      "use_cases": [
+        "气哭或崩溃大喊"
+      ]
+    },
+    {
+      "id": "meme-129",
+      "file": "抽象/1793262681404.png",
+      "original_filename": "1793262681404.png",
+      "category": "抽象",
+      "emotion": "抽象",
+      "description": "像素手势图标",
+      "use_cases": [
+        "摇滚手势或搞怪回应"
+      ]
+    },
+    {
+      "id": "meme-130",
+      "file": "无语/1793262676799.png",
+      "original_filename": "1793262676799.png",
+      "category": "无语",
+      "emotion": "无语",
+      "description": "小猫写着已力竭",
+      "use_cases": [
+        "疲惫到没力气"
+      ]
+    },
+    {
+      "id": "meme-131",
+      "file": "开心/1793262671944.png",
+      "original_filename": "1793262671944.png",
+      "category": "开心",
+      "emotion": "开心",
+      "description": "两个角色牵手走路",
+      "use_cases": [
+        "约朋友一起出发"
+      ]
+    },
+    {
+      "id": "meme-132",
+      "file": "无语/1793262663458.png",
+      "original_filename": "1793262663458.png",
+      "category": "无语",
+      "emotion": "无语",
+      "description": "拄拐皱眉的老人小人",
+      "use_cases": [
+        "感叹老了或无奈"
+      ]
+    },
+    {
+      "id": "meme-133",
+      "file": "抽象/1793262655799.png",
+      "original_filename": "1793262655799.png",
+      "category": "抽象",
+      "emotion": "抽象",
+      "description": "拿刀的虾",
+      "use_cases": [
+        "谐音瞎刀或荒诞威胁玩笑"
+      ]
+    },
+    {
+      "id": "meme-134",
+      "file": "开心/1793262651811.png",
+      "original_filename": "1793262651811.png",
+      "category": "开心",
+      "emotion": "开心",
+      "description": "聊天图标戴睡帽睡觉",
+      "use_cases": [
+        "道晚安或表示睡了"
+      ]
+    }
+  ]
+}
